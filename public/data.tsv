@@ -1,0 +1,251 @@
+	code	common_name	official_name	population	area	capital	region	subregion	languages	currency	borders	flag_svg
+0	SGS	Geórgia do Sul	Geórgia do Sul e Ilhas Sandwich do Sul	30	3903.0	Ponto Edward	Antártica		Inglês	Libra de Santa Helena	[]	https://flagcdn.com/gs.svg
+1	GRD	Granada	Granada	112519	344.0	São Jorge	Américas	Caribe	Inglês	Dólar do Caribe Oriental	[]	https://flagcdn.com/gd.svg
+2	CHE	Suíça	Confederação Suíça	8654622	41284.0	Berna	Europa	Europa Ocidental	Francês, Alemão Suíço, Italiano, Romanche	Franco Suíço	['AUT', 'FRA', 'ITA', 'LIE', 'DEU']	https://flagcdn.com/ch.svg
+3	SLE	Serra Leoa	República da Serra Leoa	7976985	71740.0	Cidade Livre	África	África Ocidental	Inglês	Leone de Serra Leoa	['GIN', 'LBR']	https://flagcdn.com/sl.svg
+4	HUN	Hungria	Hungria	9749763	93028.0	Budapeste	Europa	Europa Central	Húngaro	Forint Húngaro	['AUT', 'HRV', 'ROU', 'SRB', 'SVK', 'SVN', 'UKR']	https://flagcdn.com/hu.svg
+5	TWN	Taiwan	República da China (Taiwan)	23503349	36193.0	Taipei	Ásia	Ásia Oriental	Chinês	Novo Dólar Taiwanês	[]	https://flagcdn.com/tw.svg
+6	WLF	Wallis e Futuna	Território das Ilhas Wallis e Futuna	11750	142.0	Mata-Utu	Oceânia	Polinésia	Francês	Franco CFP	[]	https://flagcdn.com/wf.svg
+7	BRB	Barbados	Barbados	287371	430.0	Bridgetown	Américas	Caribe	Inglês	Dólar de Barbados	[]	https://flagcdn.com/bb.svg
+8	PCN	Ilhas Pitcairn	Grupo de Ilhas Pitcairn	56	47.0	Adamstown	Oceânia	Polinésia	Inglês	Dólar da Nova Zelândia	[]	https://flagcdn.com/pn.svg
+9	CIV	Costa do Marfim	República da Costa do Marfim	26378275	322463.0	Yamoussoukro	África	África Ocidental	Francês	Franco CFA da África Ocidental	['BFA', 'GHA', 'GIN', 'LBR', 'MLI']	https://flagcdn.com/ci.svg
+10	TUN	Tunísia	República Tunisina	11818618	163610.0	Tunes	África	Norte da África	Árabe	Dinar Tunisiano	['DZA', 'LBY']	https://flagcdn.com/tn.svg
+11	ITA	Itália	República Italiana	59554023	301336.0	Roma	Europa	Sul da Europa	Italiano	Euro	['AUT', 'FRA', 'SMR', 'SVN', 'CHE', 'VAT']	https://flagcdn.com/it.svg
+12	BEN	Benim	República do Benim	12123198	112622.0	Porto-Novo	África	África Ocidental	Francês	Franco CFA da África Ocidental	['BFA', 'NER', 'NGA', 'TGO']	https://flagcdn.com/bj.svg
+13	IDN	Indonésia	República da Indonésia	273523621	1904569.0	Jacarta	Ásia	Sudeste Asiático	Indonésio	Rupia Indonésia	['TLS', 'MYS', 'PNG']	https://flagcdn.com/id.svg
+14	CPV	Cabo Verde	República de Cabo Verde	555988	4033.0	Praia	África	África Ocidental	Português	Escudo Cabo-Verdiano	[]	https://flagcdn.com/cv.svg
+15	KNA	São Cristóvão e Névis	Federação de São Cristóvão e Névis	53192	261.0	Basseterre	Américas	Caribe	Inglês	Dólar do Caribe Oriental	[]	https://flagcdn.com/kn.svg
+16	LAO	Laos	República Democrática Popular do Laos	7275556	236800.0	Vientiane	Ásia	Sudeste Asiático	Lao	Kip do Laos	['MMR', 'KHM', 'CHN', 'THA', 'VNM']	https://flagcdn.com/la.svg
+17	BES	Holanda caribenha	Bonaire, Santo Eustáquio e Saba	25987	328.0	Kralendijk	Américas	Caribe	Inglês, Holandês, Papiamento	Dólar dos Estados Unidos	[]	https://flagcdn.com/bq.svg
+18	UGA	Uganda	República de Uganda	45741000	241550.0	Campala	África	África Oriental	Inglês, Suaíli	Xelim Ugandês	['COD', 'KEN', 'RWA', 'SSD', 'TZA']	https://flagcdn.com/ug.svg
+19	AND	Andorra	Principado de Andorra	77265	468.0	Andorra a Velha	Europa	Sul da Europa	Catalão	Euro	['FRA', 'ESP']	https://flagcdn.com/ad.svg
+20	BDI	Burundi	República do Burundi	11890781	27834.0	Gitega	África	África Oriental	Francês, Kirundi	Franco do Burundi	['COD', 'RWA', 'TZA']	https://flagcdn.com/bi.svg
+21	ZAF	África do Sul	República da África do Sul	59308690	1221037.0	Pretória, Bloemfontein, Cidade do Cabo	África	África Austral	Inglês, Africâner, Ndebele do Sul, Sotho do Norte, Sotho do Sul, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu	Rand Sul-Africano	['BWA', 'LSO', 'MOZ', 'NAM', 'SWZ', 'ZWE']	https://flagcdn.com/za.svg
+22	FRA	França	República Francesa	67391582	551695.0	Paris	Europa	Europa Ocidental	Francês	Euro	['AND', 'BEL', 'DEU', 'ITA', 'LUX', 'MCO', 'ESP', 'CHE']	https://flagcdn.com/fr.svg
+23	LBY	Líbia	Estado da Líbia	6871287	1759540.0	Trípoli	África	Norte da África	Árabe	Dinar Líbio	['DZA', 'TCD', 'EGY', 'NER', 'SDN', 'TUN']	https://flagcdn.com/ly.svg
+24	MEX	México	Estados Unidos Mexicanos	128932753	1964375.0	Cidade do México	Américas	América do Norte	Espanhol	Peso Mexicano	['BLZ', 'GTM', 'USA']	https://flagcdn.com/mx.svg
+25	GAB	Gabão	República Gabonesa	2225728	267668.0	Libreville	África	África Central	Francês	Franco CFA da África Central	['CMR', 'COG', 'GNQ']	https://flagcdn.com/ga.svg
+26	MNP	Ilhas Marianas do Norte	Comunidade das Ilhas Marianas do Norte	57557	464.0	Saipan	Oceânia	Micronésia	Inglês, Caroliniano, Chamorro	Dólar dos Estados Unidos	[]	https://flagcdn.com/mp.svg
+27	MKD	Macedônia do Norte	República da Macedônia do Norte	2077132	25713.0	Escópia	Europa	Sudeste da Europa	Macedônio	Denar da Macedônia	['ALB', 'BGR', 'GRC', 'UNK', 'SRB']	https://flagcdn.com/mk.svg
+28	CHN	China	República Popular da China	1402112000	9706961.0	Pequim	Ásia	Ásia Oriental	Chinês	Yuan Chinês	['AFG', 'BTN', 'MMR', 'HKG', 'IND', 'KAZ', 'NPL', 'PRK', 'KGZ', 'LAO', 'MAC', 'MNG', 'PAK', 'RUS', 'TJK', 'VNM']	https://flagcdn.com/cn.svg
+29	YEM	Iêmen	República do Iêmen	29825968	527968.0	Sana	Ásia	Ásia Ocidental	Árabe	Rial Iemenita	['OMN', 'SAU']	https://flagcdn.com/ye.svg
+30	BLM	São Bartolomeu	Coletividade de São Bartolomeu	4255	21.0	Gustávia	Américas	Caribe	Francês	Euro	[]	https://flagcdn.com/bl.svg
+31	GGY	Guernsey	Bailiado de Guernsey	62999	78.0	Porto de São Pedro	Europa	Norte da Europa	Inglês, Francês, Guernésiais	Libra Esterlina, Libra de Guernsey	[]	https://flagcdn.com/gg.svg
+32	SLB	Ilhas Salomão	Ilhas Salomão	686878	28896.0	Honiara	Oceânia	Melanésia	Inglês	Dólar das Ilhas Salomão	[]	https://flagcdn.com/sb.svg
+33	SJM	Svalbard e Jan Mayen	Svalbard e Jan Mayen	2562	61399.0	Longyearbyen	Europa	Norte da Europa	Norueguês	Coroa Norueguesa	[]	https://flagcdn.com/sj.svg
+34	FRO	Ilhas Faroé	Ilhas Faroé	48865	1393.0	Tórshavn	Europa	Norte da Europa	Dinamarquês, Feroês	Coroa Dinamarquesa, Coroa Faroense	[]	https://flagcdn.com/fo.svg
+35	UZB	Uzbequistão	República do Uzbequistão	34232050	447400.0	Tashkent	Ásia	Ásia Central	Russo, Uzbeque	Som do Uzbequistão	['AFG', 'KAZ', 'KGZ', 'TJK', 'TKM']	https://flagcdn.com/uz.svg
+36	EGY	Egito	República Árabe do Egito	102334403	1002450.0	Cairo	África	Norte da África	Árabe	Libra Egípcia	['ISR', 'LBY', 'PSE', 'SDN']	https://flagcdn.com/eg.svg
+37	SEN	Senegal	República do Senegal	16743930	196722.0	Dacar	África	África Ocidental	Francês	Franco CFA da África Ocidental	['GMB', 'GIN', 'GNB', 'MLI', 'MRT']	https://flagcdn.com/sn.svg
+38	LKA	Sri Lanka	República Democrática Socialista do Sri Lanka	21919000	65610.0	Sri Jayawardenepura Kotte	Ásia	Sul da Ásia	Cingalês, Tâmil	Rupia do Sri Lanka	['IND']	https://flagcdn.com/lk.svg
+39	PSE	Palestina	Estado da Palestina	4803269	6220.0	Ramallah, Jerusalém	Ásia	Ásia Ocidental	Árabe	Libra Egípcia, Novo Shekel Israelense, Dinar Jordaniano	['ISR', 'EGY', 'JOR']	https://flagcdn.com/ps.svg
+40	BGD	Bangladesh	República Popular de Bangladesh	164689383	147570.0	Daca	Ásia	Sul da Ásia	Bengali	Taka de Bangladesh	['MMR', 'IND']	https://flagcdn.com/bd.svg
+41	PER	Peru	República do Peru	32971846	1285216.0	Lima	Américas	Ámérica do Sul	Espanhol, Aimará, Quíchua	Sol Peruano	['BOL', 'BRA', 'CHL', 'COL', 'ECU']	https://flagcdn.com/pe.svg
+42	SGP	Cingapura	República de Singapura	5685807	710.0	Cingapura	Ásia	Sudeste Asiático	Inglês, Chinês, Tâmil, Malaio	Dólar de Singapura	[]	https://flagcdn.com/sg.svg
+43	TUR	Turquia	República da Turquia	84339067	783562.0	Ancara	Ásia	Ásia Ocidental	Turco	Lira Turca	['ARM', 'AZE', 'BGR', 'GEO', 'GRC', 'IRN', 'IRQ', 'SYR']	https://flagcdn.com/tr.svg
+44	AFG	Afeganistão	República Islâmica do Afeganistão	40218234	652230.0	Cabul	Ásia	Sul da Ásia	Dari, Pashto, Turcomano	Afegane	['IRN', 'PAK', 'TKM', 'UZB', 'TJK', 'CHN']	https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg
+45	ABW	Aruba	Aruba	106766	180.0	Oranjestad	Américas	Caribe	Holandês, Papiamento	Florim de Aruba	[]	https://flagcdn.com/aw.svg
+46	COK	Ilhas Cook	Ilhas Cook	18100	236.0	Avarua	Oceânia	Polinésia	Inglês, Maori das Ilhas Cook	Dólar da Nova Zelândia, Dólar das Ilhas Cook	[]	https://flagcdn.com/ck.svg
+47	GBR	Reino Unido	Reino Unido da Grã-Bretanha e Irlanda do Norte	67215293	242900.0	Londres	Europa	Norte da Europa	Inglês	Libra Esterlina	['IRL']	https://flagcdn.com/gb.svg
+48	ZMB	Zâmbia	República da Zâmbia	18383956	752612.0	Lusaca	África	África Oriental	Inglês	Kwacha da Zâmbia	['AGO', 'BWA', 'COD', 'MWI', 'MOZ', 'NAM', 'TZA', 'ZWE']	https://flagcdn.com/zm.svg
+49	FIN	Finlândia	República da Finlândia	5530719	338424.0	Helsínquia	Europa	Norte da Europa	Finlandês, Sueco	Euro	['NOR', 'SWE', 'RUS']	https://flagcdn.com/fi.svg
+50	NER	Níger	República do Níger	24206636	1267000.0	Niamey	África	África Ocidental	Francês	Franco CFA da África Ocidental	['DZA', 'BEN', 'BFA', 'TCD', 'LBY', 'MLI', 'NGA']	https://flagcdn.com/ne.svg
+51	CXR	Ilha Natal	Território da Ilha Natal	2072	135.0	Enseada dos Peixes Voadores	Oceânia	Austrália e Nova Zelândia	Inglês	Dólar Australiano	[]	https://flagcdn.com/cx.svg
+52	TKL	Toquelau	Toquelau	1411	12.0	Fakaofo	Oceânia	Polinésia	Inglês, Samoano, Toquelauano	Dólar da Nova Zelândia	[]	https://flagcdn.com/tk.svg
+53	GNB	Guiné-Bissau	República da Guiné-Bissau	1967998	36125.0	Bissau	África	África Ocidental	Português, Crioulo da Alta Guiné	Franco CFA da África Ocidental	['GIN', 'SEN']	https://flagcdn.com/gw.svg
+54	AZE	Azerbaijão	República do Azerbaijão	10110116	86600.0	Bacu	Ásia	Ásia Ocidental	Azerbaijano	Manat do Azerbaijão	['ARM', 'GEO', 'IRN', 'RUS', 'TUR']	https://flagcdn.com/az.svg
+55	REU	Reunião	Ilha da Reunião	840974	2511.0	Saint Denis	África	África Oriental	Francês	Euro	[]	https://flagcdn.com/re.svg
+56	DJI	Djibuti	República do Djibuti	988002	23200.0	Djibuti	África	África Oriental	Francês, Árabe	Franco do Djibuti	['ERI', 'ETH', 'SOM']	https://flagcdn.com/dj.svg
+57	PRK	Coreia do Norte	República Popular Democrática da Coreia	25778815	120538.0	Pyongyang	Ásia	Ásia Oriental	Coreano	Won Norte-Coreano	['CHN', 'KOR', 'RUS']	https://flagcdn.com/kp.svg
+58	MUS	Maurício	República das Maurícias	1265740	2040.0	Porto Luís	África	África Oriental	Inglês, Francês, Crioulo das Maurícias	Rupia Mauriciana	[]	https://flagcdn.com/mu.svg
+59	MSR	Montserrate	Montserrate	4922	102.0	Plymouth	Américas	Caribe	Inglês	Dólar do Caribe Oriental	[]	https://flagcdn.com/ms.svg
+60	VIR	Ilhas Virgens dos Estados Unidos	Ilhas Virgens dos Estados Unidos	106290	347.0	Charlotte Amália	Américas	Caribe	Inglês	Dólar dos Estados Unidos	[]	https://flagcdn.com/vi.svg
+61	COL	Colômbia	República da Colômbia	50882884	1141748.0	Bogotá	Américas	Ámérica do Sul	Espanhol	Peso Colombiano	['BRA', 'ECU', 'PAN', 'PER', 'VEN']	https://flagcdn.com/co.svg
+62	GRC	Grécia	República Helênica	10715549	131990.0	Atenas	Europa	Sul da Europa	Grego	Euro	['ALB', 'BGR', 'TUR', 'MKD']	https://flagcdn.com/gr.svg
+63	HRV	Croácia	República da Croácia	4047200	56594.0	Zagrebe	Europa	Sudeste da Europa	Croata	Euro	['BIH', 'HUN', 'MNE', 'SRB', 'SVN']	https://flagcdn.com/hr.svg
+64	MAR	Marrocos	Reino de Marrocos	36910558	446550.0	Rabate	África	Norte da África	Árabe, Berbere	Dirham Marroquino	['DZA', 'ESH', 'ESP']	https://flagcdn.com/ma.svg
+65	DZA	Argélia	República Democrática Popular da Argélia	44700000	2381741.0	Argel	África	Norte da África	Árabe	Dinar Argelino	['TUN', 'LBY', 'NER', 'ESH', 'MRT', 'MLI', 'MAR']	https://flagcdn.com/dz.svg
+66	ATA	Antártica	Antártica	1000	14000000.0		Antártica			Dólar da Antártida	[]	https://flagcdn.com/aq.svg
+67	NLD	Holanda	Reino dos Países Baixos	16655799	41850.0	Amsterdã	Europa	Europa Ocidental	Holandês	Euro	['BEL', 'DEU']	https://flagcdn.com/nl.svg
+68	SDN	Sudão	República do Sudão	43849269	1886068.0	Cartum	África	Norte da África	Inglês, Árabe	Libra Sudanesa	['CAF', 'TCD', 'EGY', 'ERI', 'ETH', 'LBY', 'SSD']	https://flagcdn.com/sd.svg
+69	FJI	Fiji	República de Fiji	896444	18272.0	Suva	Oceânia	Melanésia	Inglês, Fijiano, Fiji Hindi	Dólar Fijiano	[]	https://flagcdn.com/fj.svg
+70	LIE	Liechtenstein	Principado de Liechtenstein	38137	160.0	Vaduz	Europa	Europa Ocidental	Alemão	Franco Suíço	['AUT', 'CHE']	https://flagcdn.com/li.svg
+71	NPL	Nepal	República Democrática Federal do Nepal	29136808	147181.0	Catmandu	Ásia	Sul da Ásia	Nepalês	Rupia Nepalesa	['CHN', 'IND']	https://flagcdn.com/np.svg
+72	PRI	Porto Rico	Comunidade de Porto Rico	3194034	8870.0	San Juan	Américas	Caribe	Inglês, Espanhol	Dólar dos Estados Unidos	[]	https://flagcdn.com/pr.svg
+73	GEO	Geórgia	Geórgia	3714000	69700.0	Tbilissi	Ásia	Ásia Ocidental	Georgiano	Lari Georgiano	['ARM', 'AZE', 'RUS', 'TUR']	https://flagcdn.com/ge.svg
+74	PAK	Paquistão	República Islâmica do Paquistão	220892331	881912.0	Islamabade	Ásia	Sul da Ásia	Inglês, Urdu	Rupia Paquistanesa	['AFG', 'CHN', 'IND', 'IRN']	https://flagcdn.com/pk.svg
+75	MCO	Mônaco	Principado de Mônaco	39244	02.02	Mônaco	Europa	Europa Ocidental	Francês	Euro	['FRA']	https://flagcdn.com/mc.svg
+76	BWA	Botsuana	República do Botsuana	2351625	582000.0	Gaborone	África	África Austral	Inglês, Tswana	Pula de Botsuana	['NAM', 'ZAF', 'ZMB', 'ZWE']	https://flagcdn.com/bw.svg
+77	LBN	Líbano	República Libanesa	6825442	10452.0	Beirute	Ásia	Ásia Ocidental	Francês, Árabe	Libra Libanesa	['ISR', 'SYR']	https://flagcdn.com/lb.svg
+78	PNG	Papua Nova Guiné	Estado Independente de Papua Nova Guiné	8947027	462840.0	Porto Moresby	Oceânia	Melanésia	Inglês, Hiri Motu, Tok Pisin	Kina da Papua-Nova Guiné	['IDN']	https://flagcdn.com/pg.svg
+79	MYT	Maiote	Departamento de Maiote	226915	374.0	Mamudzou	África	África Oriental	Francês	Euro	[]	https://flagcdn.com/yt.svg
+80	DOM	República Dominicana	República Dominicana	10847904	48671.0	Santo Domingo	Américas	Caribe	Espanhol	Peso Dominicano	['HTI']	https://flagcdn.com/do.svg
+81	NFK	Ilha Norfolk	Território da Ilha Norfolk	2302	36.0	Kingston	Oceânia	Austrália e Nova Zelândia	Inglês, Norfuk	Dólar Australiano	[]	https://flagcdn.com/nf.svg
+82	BVT	Ilha Bouvet	Ilha Bouvet	0	49.0		Antártica		Norueguês	Coroa Norueguesa	[]	https://flagcdn.com/bv.svg
+83	QAT	Catar	Estado do Catar	2881060	11586.0	Doha	Ásia	Ásia Ocidental	Árabe	Rial do Catar	['SAU']	https://flagcdn.com/qa.svg
+84	MDG	Madagáscar	República de Madagáscar	27691019	587041.0	Antananarivo	África	África Oriental	Francês, Malgaxe	Ariary Malgaxe	[]	https://flagcdn.com/mg.svg
+85	IND	Índia	República da Índia	1380004385	3287590.0	Nova Deli	Ásia	Sul da Ásia	Inglês, Tâmil, Hindi	Rupia Indiana	['BGD', 'BTN', 'MMR', 'CHN', 'NPL', 'PAK']	https://flagcdn.com/in.svg
+86	SYR	Síria	República Árabe Síria	17500657	185180.0	Damasco	Ásia	Ásia Ocidental	Árabe	Libra Síria	['IRQ', 'ISR', 'JOR', 'LBN', 'TUR']	https://flagcdn.com/sy.svg
+87	MNE	Montenegro	Montenegro	621718	13812.0	Podgorica	Europa	Sudeste da Europa	Montenegrino	Euro	['ALB', 'BIH', 'HRV', 'UNK', 'SRB']	https://flagcdn.com/me.svg
+88	SWZ	Essuatíni	Reino de Essuatíni	1160164	17364.0	Mbabane	África	África Austral	Inglês, Suazi	Rand Sul-Africano, Lilangeni Suazi	['MOZ', 'ZAF']	https://flagcdn.com/sz.svg
+89	PRY	Paraguai	República do Paraguai	7132530	406752.0	Assunção	Américas	Ámérica do Sul	Espanhol, Guarani	Guarani Paraguaio	['ARG', 'BOL', 'BRA']	https://flagcdn.com/py.svg
+90	SLV	El Salvador	República de El Salvador	6486201	21041.0	São Salvador	Américas	América Central	Espanhol	Dólar dos Estados Unidos	['GTM', 'HND']	https://flagcdn.com/sv.svg
+91	UKR	Ucrânia	Ucrânia	44134693	603500.0	Kyiv	Europa	Europa Oriental	Ucraniano	Hryvnia Ucraniana	['BLR', 'HUN', 'MDA', 'POL', 'ROU', 'RUS', 'SVK']	https://flagcdn.com/ua.svg
+92	IMN	Ilha de Man	Ilha de Man	85032	572.0	Douglas	Europa	Norte da Europa	Inglês, Manx	Libra Esterlina, Libra Manx	[]	https://flagcdn.com/im.svg
+93	NAM	Namíbia	República da Namíbia	2540916	825615.0	Windhoek	África	África Austral	Inglês, Africâner, Tswana, Alemão, Herero, Khoekhoe, Kwangali, Lozi, Ndonga	Rand Sul-Africano, Dólar Namibiano	['AGO', 'BWA', 'ZAF', 'ZMB']	https://flagcdn.com/na.svg
+94	ARE	Emirados Árabes Unidos	Emirados Árabes Unidos	9890400	83600.0	Abu Dabi	Ásia	Ásia Ocidental	Árabe	Dirham dos Emirados Árabes Unidos	['OMN', 'SAU']	https://flagcdn.com/ae.svg
+95	BGR	Bulgária	República da Bulgária	6927288	110879.0	Sófia	Europa	Sudeste da Europa	Búlgaro	Lev Búlgaro	['GRC', 'MKD', 'ROU', 'SRB', 'TUR']	https://flagcdn.com/bg.svg
+96	GRL	Groenlândia	Groenlândia	56367	2166086.0	Nuuk	Américas	América do Norte	Groenlandês	Coroa Norueguesa	[]	https://flagcdn.com/gl.svg
+97	DEU	Alemanha	República Federal da Alemanha	83240525	357114.0	Berlim	Europa	Europa Ocidental	Alemão	Euro	['AUT', 'BEL', 'CZE', 'DNK', 'FRA', 'LUX', 'NLD', 'POL', 'CHE']	https://flagcdn.com/de.svg
+98	KHM	Camboja	Reino do Camboja	16718971	181035.0	Phnom Penh	Ásia	Sudeste Asiático	Khmer	Dólar dos Estados Unidos, Riel Cambojano	['LAO', 'THA', 'VNM']	https://flagcdn.com/kh.svg
+99	IRQ	Iraque	República do Iraque	40222503	438317.0	Bagdá	Ásia	Ásia Ocidental	Árabe, Aramaico, Sorâni	Dinar Iraquiano	['IRN', 'JOR', 'KWT', 'SAU', 'SYR', 'TUR']	https://flagcdn.com/iq.svg
+100	ATF	Terras Austrais e Antárticas Francesas	Território das Terras Austrais e Antárticas Francesas	400	7747.0	Porto-aux-Français	Antártica		Francês	Euro	[]	https://flagcdn.com/tf.svg
+101	SWE	Suécia	Reino da Suécia	10353442	450295.0	Estocolmo	Europa	Norte da Europa	Sueco	Coroa Sueca	['FIN', 'NOR']	https://flagcdn.com/se.svg
+102	CUB	Cuba	República de Cuba	11326616	109884.0	Havana	Américas	Caribe	Espanhol	Peso Conversível Cubano, Peso Cubano	[]	https://flagcdn.com/cu.svg
+103	KGZ	Quirguistão	República do Quirguistão	6591600	199951.0	Bisqueque	Ásia	Ásia Central	Russo, Quirguiz	Som do Quirguistão	['CHN', 'KAZ', 'TJK', 'UZB']	https://flagcdn.com/kg.svg
+104	RUS	Rússia	Federação Russa	144104080	17098242.0	Moscou	Europa	Europa Oriental	Russo	Rublo Russo	['AZE', 'BLR', 'CHN', 'EST', 'FIN', 'GEO', 'KAZ', 'PRK', 'LVA', 'LTU', 'MNG', 'NOR', 'POL', 'UKR']	https://flagcdn.com/ru.svg
+105	MYS	Malásia	Malásia	32365998	330803.0	Kuala Lumpur	Ásia	Sudeste Asiático	Inglês, Malaio	Ringgit Malaio	['BRN', 'IDN', 'THA']	https://flagcdn.com/my.svg
+106	STP	São Tomé e Príncipe	República Democrática de São Tomé e Príncipe	219161	964.0	São Tomé	África	África Central	Português	Dobra de São Tomé e Príncipe	[]	https://flagcdn.com/st.svg
+107	CYP	Chipre	República de Chipre	1207361	9251.0	Nicósia	Europa	Sul da Europa	Turco, Grego	Euro	[]	https://flagcdn.com/cy.svg
+108	CAN	Canadá	Canadá	38005238	9984670.0	Ottawa	Américas	América do Norte	Inglês, Francês	Dólar Canadense	['USA']	https://flagcdn.com/ca.svg
+109	MWI	Maláui	República do Malaui	19129955	118484.0	Lilongwe	África	África Oriental	Inglês, Chewa	Kwacha do Malawi	['MOZ', 'TZA', 'ZMB']	https://flagcdn.com/mw.svg
+110	SAU	Arábia Saudita	Reino da Arábia Saudita	34813867	2149690.0	Riad	Ásia	Ásia Ocidental	Árabe	Rial Saudita	['IRQ', 'JOR', 'KWT', 'OMN', 'QAT', 'ARE', 'YEM']	https://flagcdn.com/sa.svg
+111	BIH	Bósnia e Herzegovina	Bósnia e Herzegovina	3280815	51209.0	Sarajevo	Europa	Sudeste da Europa	Croata, Bósnio, Sérvio	Marco Conversível da Bósnia e Herzegovina	['HRV', 'MNE', 'SRB']	https://flagcdn.com/ba.svg
+112	ETH	Etiópia	República Democrática Federal da Etiópia	114963583	1104300.0	Adis Abeba	África	África Oriental	Amárico	Birr Etíope	['DJI', 'ERI', 'KEN', 'SOM', 'SSD', 'SDN']	https://flagcdn.com/et.svg
+113	ESP	Espanha	Reino da Espanha	47351567	505992.0	Madri	Europa	Sul da Europa	Catalão, Espanhol, Basco, Galego	Euro	['AND', 'FRA', 'GIB', 'PRT', 'MAR']	https://flagcdn.com/es.svg
+114	SVN	Eslovênia	República da Eslovênia	2100126	20273.0	Ljubljana	Europa	Europa Central	Esloveno	Euro	['AUT', 'HRV', 'ITA', 'HUN']	https://flagcdn.com/si.svg
+115	OMN	Omã	Sultanato de Omã	5106622	309500.0	Mascate	Ásia	Ásia Ocidental	Árabe	Rial de Omã	['SAU', 'ARE', 'YEM']	https://flagcdn.com/om.svg
+116	SPM	São Pedro e Miquelon	São Pedro e Miquelon	6069	242.0	São Pedro	Américas	América do Norte	Francês	Euro	[]	https://flagcdn.com/pm.svg
+117	MAC	Macau	Região Administrativa Especial de Macau, China	649342	30.0		Ásia	Ásia Oriental	Chinês, Português	Pataca Macaense	['CHN']	https://flagcdn.com/mo.svg
+118	SMR	San Marino	República de San Marino	33938	61.0	Cidade de São Marino	Europa	Sul da Europa	Italiano	Euro	['ITA']	https://flagcdn.com/sm.svg
+119	LSO	Lesoto	Reino do Lesoto	2142252	30355.0	Maseru	África	África Austral	Inglês, Soto	Rand Sul-Africano, Loti de Lesoto	['ZAF']	https://flagcdn.com/ls.svg
+120	MHL	Ilhas Marshall	República das Ilhas Marshall	59194	181.0	Majuro	Oceânia	Micronésia	Inglês, Marshallês	Dólar dos Estados Unidos	[]	https://flagcdn.com/mh.svg
+121	SXM	Sint Maarten	São Martinho	40812	34.0	Philipsburg	Américas	Caribe	Inglês, Francês, Holandês	Florim das Antilhas Holandesas	['MAF']	https://flagcdn.com/sx.svg
+122	ISL	Islândia	Islândia	366425	103000.0	Reykjavík	Europa	Norte da Europa	Islandês	Coroa Islandesa	[]	https://flagcdn.com/is.svg
+123	LUX	Luxemburgo	Grão-Ducado do Luxemburgo	632275	2586.0	Luxemburgo	Europa	Europa Ocidental	Francês, Alemão, Luxemburguês	Euro	['BEL', 'FRA', 'DEU']	https://flagcdn.com/lu.svg
+124	ARG	Argentina	República Argentina	45376763	2780400.0	Buenos Aires	Américas	Ámérica do Sul	Espanhol, Guarani	Peso Argentino	['BOL', 'BRA', 'CHL', 'PRY', 'URY']	https://flagcdn.com/ar.svg
+125	TCA	Ilhas Turcas e Caicos	Ilhas Turcas e Caicos	38718	948.0	Cockburn Town	Américas	Caribe	Inglês	Dólar dos Estados Unidos	[]	https://flagcdn.com/tc.svg
+126	NRU	Nauru	República de Nauru	10834	21.0	Yaren	Oceânia	Micronésia	Inglês, Nauruano	Dólar Australiano	[]	https://flagcdn.com/nr.svg
+127	CCK	Ilhas Cocos (Keeling)	Território das Ilhas Cocos (Keeling)	544	14.0	Ilha Oeste	Oceânia	Austrália e Nova Zelândia	Inglês	Dólar Australiano	[]	https://flagcdn.com/cc.svg
+128	ESH	Saara Ocidental	República Árabe Sarauí Democrática	510713	266000.0	El Aaiún	África	Norte da África	Espanhol, Berbere, Hassaniya	Dirham Marroquino, Dinar Argelino, Ouguiya Mauritana	['DZA', 'MRT', 'MAR']	https://flagcdn.com/eh.svg
+129	DMA	Domínica	Comunidade da Dominica	71991	751.0	Roseau	Américas	Caribe	Inglês	Dólar do Caribe Oriental	[]	https://flagcdn.com/dm.svg
+130	CRI	Costa Rica	República da Costa Rica	5094114	51100.0	São José	Américas	América Central	Espanhol	Colón da Costa Rica	['NIC', 'PAN']	https://flagcdn.com/cr.svg
+131	AUS	Austrália	Comunidade da Austrália	25687041	7692024.0	Canberra	Oceânia	Austrália e Nova Zelândia	Inglês	Dólar Australiano	[]	https://flagcdn.com/au.svg
+132	THA	Tailândia	Reino da Tailândia	69799978	513120.0	Bangkok	Ásia	Sudeste Asiático	Tailandês	Baht Tailandês	['MMR', 'KHM', 'LAO', 'MYS']	https://flagcdn.com/th.svg
+133	HTI	Haiti	República do Haiti	11402533	27750.0	Porto Príncipe	Américas	Caribe	Francês, Crioulo Haitiano	Gourde Haitiano	['DOM']	https://flagcdn.com/ht.svg
+134	TUV	Tuvalu	Tuvalu	11792	26.0	Funafuti	Oceânia	Polinésia	Inglês, Tuvaluano	Dólar Australiano, Dólar Tuvaluano	[]	https://flagcdn.com/tv.svg
+135	HND	Honduras	República de Honduras	9904608	112492.0	Tegucigalpa	Américas	América Central	Espanhol	Lempira Hondurenha	['GTM', 'SLV', 'NIC']	https://flagcdn.com/hn.svg
+136	GNQ	Guiné Equatorial	República da Guiné Equatorial	1402985	28051.0	Malabo	África	África Central	Francês, Português, Espanhol	Franco CFA da África Central	['CMR', 'GAB']	https://flagcdn.com/gq.svg
+137	LCA	Santa Lúcia	Santa Lúcia	183629	616.0	Castries	Américas	Caribe	Inglês	Dólar do Caribe Oriental	[]	https://flagcdn.com/lc.svg
+138	PYF	Polinésia Francesa	Polinésia Francesa	280904	4167.0	Papeetē	Oceânia	Polinésia	Francês	Franco CFP	[]	https://flagcdn.com/pf.svg
+139	BLR	Belarus (Bielorrússia)	República da Bielorrússia	9398861	207600.0	Minsk	Europa	Europa Oriental	Russo, Bielorrusso	Rublo Bielorrusso	['LVA', 'LTU', 'POL', 'RUS', 'UKR']	https://flagcdn.com/by.svg
+140	LVA	Letônia	República da Letónia	1901548	64559.0	Riga	Europa	Norte da Europa	Letão	Euro	['BLR', 'EST', 'LTU', 'RUS']	https://flagcdn.com/lv.svg
+141	PLW	Palau	República de Palau	18092	459.0	Ngerulmud	Oceânia	Micronésia	Inglês, Palauano	Dólar dos Estados Unidos	[]	https://flagcdn.com/pw.svg
+142	GLP	Guadalupe	Guadalupe	400132	1628.0	Basse-Terre	Américas	Caribe	Francês	Euro	[]	https://flagcdn.com/gp.svg
+143	PHL	Filipinas	República das Filipinas	109581085	342353.0	Manila	Ásia	Sudeste Asiático	Inglês, Filipino	Peso Filipino	[]	https://flagcdn.com/ph.svg
+144	GIB	Gibraltar	Gibraltar	33691	6.0	Gibraltar	Europa	Sul da Europa	Inglês	Libra de Gibraltar	['ESP']	https://flagcdn.com/gi.svg
+145	DNK	Dinamarca	Reino da Dinamarca	5831404	43094.0	Copenhagen	Europa	Norte da Europa	Dinamarquês	Coroa Dinamarquesa	['DEU']	https://flagcdn.com/dk.svg
+146	CMR	Camarões	República dos Camarões	26545864	475442.0	Iaundé	África	África Central	Inglês, Francês	Franco CFA da África Central	['CAF', 'TCD', 'COG', 'GNQ', 'GAB', 'NGA']	https://flagcdn.com/cm.svg
+147	GIN	Guiné	República da Guiné	13132792	245857.0	Conacri	África	África Ocidental	Francês	Franco Guineense	['CIV', 'GNB', 'LBR', 'MLI', 'SEN', 'SLE']	https://flagcdn.com/gn.svg
+148	BHR	Bahrein	Reino do Bahrein	1701583	765.0	Manama	Ásia	Ásia Ocidental	Árabe	Dinar do Bahrein	[]	https://flagcdn.com/bh.svg
+149	SUR	Suriname	República do Suriname	586634	163820.0	Paramaribo	Américas	Ámérica do Sul	Holandês	Dólar do Suriname	['BRA', 'GUF', 'GUY']	https://flagcdn.com/sr.svg
+150	COD	RD Congo	República Democrática do Congo	108407721	2344858.0	Kinshasa	África	África Central	Francês, Suaíli, Kikongo, Lingala, Tshiluba	Franco Congolês	['AGO', 'BDI', 'CAF', 'COG', 'RWA', 'SSD', 'TZA', 'UGA', 'ZMB']	https://flagcdn.com/cd.svg
+151	SOM	Somália	República Federal da Somália	15893219	637657.0	Mogadíscio	África	África Oriental	Árabe, Somali	Xelim Somali	['DJI', 'ETH', 'KEN']	https://flagcdn.com/so.svg
+152	CZE	Tchéquia (República Tcheca)	Tchéquia (República Tcheca)	10698896	78865.0	Praga	Europa	Europa Central	Checo, Eslovaco	Coroa Checa	['AUT', 'DEU', 'POL', 'SVK']	https://flagcdn.com/cz.svg
+153	NCL	Nova Caledônia	Nova Caledônia	271960	18575.0	Nouméa	Oceânia	Melanésia	Francês	Franco CFP	[]	https://flagcdn.com/nc.svg
+154	VUT	Vanuatu	República de Vanuatu	307150	12189.0	Porto Vila	Oceânia	Melanésia	Inglês, Francês, Bislama	Vatu de Vanuatu	[]	https://flagcdn.com/vu.svg
+155	SHN	Santa Helena, Ascensão e Tristão da Cunha	Santa Helena, Ascensão e Tristão da Cunha	53192	394.0	Jamestown	África	África Ocidental	Inglês	Libra de Santa Helena, Libra Esterlina	[]	https://flagcdn.com/sh.svg
+156	TGO	Togo	República do Togo	8278737	56785.0	Lomé	África	África Ocidental	Francês	Franco CFA da África Ocidental	['BEN', 'BFA', 'GHA']	https://flagcdn.com/tg.svg
+157	VGB	Ilhas Virgens Britânicas	Ilhas Virgens	30237	151.0	Road Town	Américas	Caribe	Inglês	Dólar dos Estados Unidos	[]	https://flagcdn.com/vg.svg
+158	KEN	Quênia	República do Quênia	53771300	580367.0	Nairóbi	África	África Oriental	Inglês, Suaíli	Xelim Queniano	['ETH', 'SOM', 'SSD', 'TZA', 'UGA']	https://flagcdn.com/ke.svg
+159	NIU	Niue	Niue	1470	260.0	Alofi	Oceânia	Polinésia	Inglês, Niueano	Dólar da Nova Zelândia	[]	https://flagcdn.com/nu.svg
+160	HMD	Ilha Heard e Ilhas McDonald	Ilha Heard e Ilhas McDonald	0	412.0		Antártica		Inglês	Dólar Australiano	[]	https://flagcdn.com/hm.svg
+161	RWA	Ruanda	República de Ruanda	12952209	26338.0	Quigali	África	África Oriental	Inglês, Francês, Kinyarwanda	Franco Ruandês	['BDI', 'COD', 'TZA', 'UGA']	https://flagcdn.com/rw.svg
+162	EST	Estônia	República da Estônia	1331057	45227.0	Tallin	Europa	Norte da Europa	Estoniano	Euro	['LVA', 'RUS']	https://flagcdn.com/ee.svg
+163	ROU	Romênia	Romênia	19286123	238391.0	Bucareste	Europa	Sudeste da Europa	Romeno	Leu Romeno	['BGR', 'HUN', 'MDA', 'SRB', 'UKR']	https://flagcdn.com/ro.svg
+164	TTO	Trinidad e Tobago	República de Trinidad e Tobago	1399491	5130.0	Porto de Espanha	Américas	Caribe	Inglês	Dólar de Trinidad e Tobago	[]	https://flagcdn.com/tt.svg
+165	GUY	Guiana	República Cooperativa da Guiana	786559	214969.0	Georgetown	Américas	Ámérica do Sul	Inglês	Dólar Guianense	['BRA', 'SUR', 'VEN']	https://flagcdn.com/gy.svg
+166	TLS	Timor-Leste	República Democrática de Timor-Leste	1318442	14874.0	Díli	Ásia	Sudeste Asiático	Português, Tétum	Dólar dos Estados Unidos	['IDN']	https://flagcdn.com/tl.svg
+167	VNM	Vietnã	República Socialista do Vietnã	97338583	331212.0	Hanói	Ásia	Sudeste Asiático	Vietnamita	Dong Vietnamita	['KHM', 'CHN', 'LAO']	https://flagcdn.com/vn.svg
+168	URY	Uruguai	República Oriental do Uruguai	3473727	181034.0	Montevidéu	Américas	Ámérica do Sul	Espanhol	Peso Uruguaio	['ARG', 'BRA']	https://flagcdn.com/uy.svg
+169	VAT	Cidade do Vaticano	Estado da Cidade do Vaticano	451	0.44	Cidade do Vaticano	Europa	Sul da Europa	Italiano, Latim	Euro	['ITA']	https://flagcdn.com/va.svg
+170	HKG	Hong Kong	Região Administrativa Especial de Hong Kong, China	7500700	1104.0	Victoria	Ásia	Ásia Oriental	Inglês, Chinês	Dólar de Hong Kong	['CHN']	https://flagcdn.com/hk.svg
+171	AUT	Áustria	República da Áustria	8917205	83871.0	Viena	Europa	Europa Central	Alemão	Euro	['CZE', 'DEU', 'HUN', 'ITA', 'LIE', 'SVK', 'SVN', 'CHE']	https://flagcdn.com/at.svg
+172	ATG	Antígua e Barbuda	Antígua e Barbuda	97928	442.0	São João	Américas	Caribe	Inglês	Dólar do Caribe Oriental	[]	https://flagcdn.com/ag.svg
+173	TKM	Turcomenistão	Turcomenistão	6031187	488100.0	Asgabate	Ásia	Ásia Central	Russo, Turcomano	Manat do Turcomenistão	['AFG', 'IRN', 'KAZ', 'UZB']	https://flagcdn.com/tm.svg
+174	MOZ	Moçambique	República de Moçambique	31255435	801590.0	Maputo	África	África Oriental	Português	Metical Moçambicano	['MWI', 'ZAF', 'SWZ', 'TZA', 'ZMB', 'ZWE']	https://flagcdn.com/mz.svg
+175	PAN	Panamá	República do Panamá	4314768	75417.0	Cidade do Panamá	Américas	América Central	Espanhol	Dólar dos Estados Unidos, Balboa Panamenho	['COL', 'CRI']	https://flagcdn.com/pa.svg
+176	FSM	Micronésia	Estados Federados da Micronésia	115021	702.0	Palikir	Oceânia	Micronésia	Inglês	Dólar dos Estados Unidos	[]	https://flagcdn.com/fm.svg
+177	IRL	Irlanda	República da Irlanda	4994724	70273.0	Dublin	Europa	Norte da Europa	Inglês, Irlandês	Euro	['GBR']	https://flagcdn.com/ie.svg
+178	CUW	Curaçao	País de Curaçao	155014	444.0	Willemstad	Américas	Caribe	Inglês, Holandês, Papiamento	Florim das Antilhas Holandesas	[]	https://flagcdn.com/cw.svg
+179	GUF	Guiana Francesa	Guiana	254541	83534.0	Caiena	Américas	Ámérica do Sul	Francês	Euro	['BRA', 'SUR']	https://flagcdn.com/gf.svg
+180	NOR	Noruega	Reino da Noruega	5379475	323802.0	Oslo	Europa	Norte da Europa	Norueguês Nynorsk, Norueguês Bokmål, Sami	Coroa Norueguesa	['FIN', 'SWE', 'RUS']	https://flagcdn.com/no.svg
+181	ALA	Ilhas Åland	Ilhas Åland	29458	1580.0	Mariehamn	Europa	Norte da Europa	Sueco	Euro	[]	https://flagcdn.com/ax.svg
+182	CAF	República Centro-Africana	República Centro-Africana	4829764	622984.0	Bangui	África	África Central	Francês, Sango	Franco CFA da África Central	['CMR', 'TCD', 'COD', 'COG', 'SSD', 'SDN']	https://flagcdn.com/cf.svg
+183	BFA	Burkina Faso	Burquina Faso	20903278	272967.0	Ouagadougou	África	África Ocidental	Francês	Franco CFA da África Ocidental	['BEN', 'CIV', 'GHA', 'MLI', 'NER', 'TGO']	https://flagcdn.com/bf.svg
+184	ERI	Eritreia	Estado da Eritreia	5352000	117600.0	Asmara	África	África Oriental	Inglês, Árabe, Tigrínia	Nakfa da Eritreia	['DJI', 'ETH', 'SDN']	https://flagcdn.com/er.svg
+185	TZA	Tanzânia	República Unida da Tanzânia	59734213	945087.0	Dodoma	África	África Oriental	Inglês, Suaíli	Xelim da Tanzânia	['BDI', 'COD', 'KEN', 'MWI', 'MOZ', 'RWA', 'UGA', 'ZMB']	https://flagcdn.com/tz.svg
+186	KOR	Coreia do Sul	República da Coreia	51780579	100210.0	Seul	Ásia	Ásia Oriental	Coreano	Won Sul-Coreano	['PRK']	https://flagcdn.com/kr.svg
+187	JOR	Jordânia	Reino Hachemita da Jordânia	10203140	89342.0	Amã	Ásia	Ásia Ocidental	Árabe	Dinar Jordaniano	['IRQ', 'ISR', 'PSE', 'SAU', 'SYR']	https://flagcdn.com/jo.svg
+188	MRT	Mauritânia	República Islâmica da Mauritânia	4649660	1030700.0	Nouakchote	África	África Ocidental	Árabe	Ouguiya da Mauritânia	['DZA', 'MLI', 'SEN', 'ESH']	https://flagcdn.com/mr.svg
+189	LTU	Lituânia	República da Lituânia	2794700	65300.0	Vilnius	Europa	Norte da Europa	Lituano	Euro	['BLR', 'LVA', 'POL', 'RUS']	https://flagcdn.com/lt.svg
+190	UMI	Ilhas Menores Distantes dos Estados Unidos	Ilhas Menores Distantes dos Estados Unidos	300	34.2	Washington DC	Américas	América do Norte	Inglês	Dólar dos Estados Unidos	[]	https://flagcdn.com/um.svg
+191	SVK	Eslováquia	República Eslovaca	5458827	49037.0	Bratislava	Europa	Europa Central	Eslovaco	Euro	['AUT', 'CZE', 'HUN', 'POL', 'UKR']	https://flagcdn.com/sk.svg
+192	AGO	Angola	República de Angola	32866268	1246700.0	Luanda	África	África Central	Português	Kwanza Angolano	['COG', 'COD', 'ZMB', 'NAM']	https://flagcdn.com/ao.svg
+193	KAZ	Cazaquistão	República do Cazaquistão	18754440	2724900.0	Nur-Sultão	Ásia	Ásia Central	Russo, Cazaque	Tenge do Cazaquistão	['CHN', 'KGZ', 'RUS', 'TKM', 'UZB']	https://flagcdn.com/kz.svg
+194	MDA	Moldávia	República da Moldávia	2617820	33846.0	Chişinău	Europa	Europa Oriental	Romeno	Leu da Moldávia	['ROU', 'UKR']	https://flagcdn.com/md.svg
+195	MLI	Mali	República do Mali	20250834	1240192.0	Bamako	África	África Ocidental	Francês	Franco CFA da África Ocidental	['DZA', 'BFA', 'GIN', 'CIV', 'MRT', 'NER', 'SEN']	https://flagcdn.com/ml.svg
+196	FLK	Ilhas Malvinas	Ilhas Malvinas	2563	12173.0	Stanley	Américas	Ámérica do Sul	Inglês	Libra das Ilhas Malvinas	[]	https://flagcdn.com/fk.svg
+197	ARM	Armênia	República da Armênia	2963234	29743.0	Erevan	Ásia	Ásia Ocidental	Armênio	Dram Armênio	['AZE', 'GEO', 'IRN', 'TUR']	https://flagcdn.com/am.svg
+198	WSM	Samoa	Estado Independente de Samoa	198410	2842.0	Ápia	Oceânia	Polinésia	Inglês, Samoano	Tala de Samoa	[]	https://flagcdn.com/ws.svg
+199	JEY	Jersey	Bailiado de Jersey	100800	116.0	Santo Helier	Europa	Norte da Europa	Inglês, Francês, Jèrriais	Libra Esterlina, Libra de Jersey	[]	https://flagcdn.com/je.svg
+200	JPN	Japão	Japão	125836021	377930.0	Tóquio	Ásia	Ásia Oriental	Japonês	Iene Japonês	[]	https://flagcdn.com/jp.svg
+201	BOL	Bolívia	Estado Plurinacional da Bolívia	11673029	1098581.0	Sucre	Américas	Ámérica do Sul	Espanhol, Aimará, Quíchua, Guarani	Boliviano	['ARG', 'BRA', 'CHL', 'PRY', 'PER']	https://flagcdn.com/bo.svg
+202	CHL	Chile	República do Chile	19116209	756102.0	Santiago	Américas	Ámérica do Sul	Espanhol	Peso Chileno	['ARG', 'BOL', 'PER']	https://flagcdn.com/cl.svg
+203	USA	Estados Unidos	Estados Unidos da América	329484123	9372610.0	Washington, DC	Américas	América do Norte	Inglês	Dólar dos Estados Unidos	['CAN', 'MEX']	https://flagcdn.com/us.svg
+204	VCT	São Vicente e Granadinas	São Vicente e Granadinas	110947	389.0	Kingstown	Américas	Caribe	Inglês	Dólar do Caribe Oriental	[]	https://flagcdn.com/vc.svg
+205	BMU	Bermudas	Bermudas	63903	54.0	Hamilton	Américas	América do Norte	Inglês	Dólar das Bermudas	[]	https://flagcdn.com/bm.svg
+206	SYC	Seicheles	República das Seicheles	98462	452.0	Vitória	África	África Oriental	Inglês, Francês, Crioulo Seichelense	Rupia Seichelense	[]	https://flagcdn.com/sc.svg
+207	IOT	Território Britânico do Oceano Índico	Território Britânico do Oceano Índico	3000	60.0	Diego Garcia	África	África Oriental	Inglês	Dólar dos Estados Unidos	[]	https://flagcdn.com/io.svg
+208	GTM	Guatemala	República da Guatemala	16858333	108889.0	Cidade da Guatemala	Américas	América Central	Espanhol	Quetzal Guatemalteco	['BLZ', 'SLV', 'HND', 'MEX']	https://flagcdn.com/gt.svg
+209	ECU	Equador	República do Equador	17643060	276841.0	Quito	Américas	Ámérica do Sul	Espanhol	Dólar dos Estados Unidos	['COL', 'PER']	https://flagcdn.com/ec.svg
+210	MTQ	Martinica	Martinica	378243	1128.0	Forte de França	Américas	Caribe	Francês	Euro	[]	https://flagcdn.com/mq.svg
+211	TJK	Tadjiquistão	República do Tajiquistão	9537642	143100.0	Duchambé	Ásia	Ásia Central	Russo, Tajique	Somoni Tadjique	['AFG', 'CHN', 'KGZ', 'UZB']	https://flagcdn.com/tj.svg
+212	MLT	Malta	República de Malta	525285	316.0	Valeta	Europa	Sul da Europa	Inglês, Maltês	Euro	[]	https://flagcdn.com/mt.svg
+213	GMB	Gâmbia	República da Gâmbia	2416664	10689.0	Banjul	África	África Ocidental	Inglês	Dalasi	['SEN']	https://flagcdn.com/gm.svg
+214	NGA	Nigéria	República Federal da Nigéria	206139587	923768.0	Abuja	África	África Ocidental	Inglês	Naira Nigeriana	['BEN', 'CMR', 'TCD', 'NER']	https://flagcdn.com/ng.svg
+215	BHS	Bahamas	Comunidade das Bahamas	393248	13943.0	Nassau	Américas	Caribe	Inglês	Dólar dos Estados Unidos, Dólar das Bahamas	[]	https://flagcdn.com/bs.svg
+216	UNK	Kosovo	República do Kosovo	1775378	10908.0	Pristina	Europa	Sudeste da Europa	Sérvio, Albanês	Euro	['ALB', 'MKD', 'MNE', 'SRB']	https://flagcdn.com/xk.svg
+217	KWT	Kuwait	Estado do Kuwait	4270563	17818.0	Kuwait	Ásia	Ásia Ocidental	Árabe	Dinar do Kuwait	['IRQ', 'SAU']	https://flagcdn.com/kw.svg
+218	MDV	Maldivas	República das Maldivas	540542	300.0	Malé	Ásia	Sul da Ásia	Divehi (Maldivas)	Rufiyaa das Maldivas	[]	https://flagcdn.com/mv.svg
+219	SSD	Sudão do Sul	República do Sudão do Sul	11193729	619745.0	Juba	África	África Central	Inglês	Libra Sul-Sudanesa	['CAF', 'COD', 'ETH', 'KEN', 'SDN', 'UGA']	https://flagcdn.com/ss.svg
+220	IRN	Irã	República Islâmica do Irã	83992953	1648195.0	Teerã	Ásia	Sul da Ásia	Persa (Farsi)	Rial Iraniano	['AFG', 'ARM', 'AZE', 'IRQ', 'PAK', 'TUR', 'TKM']	https://flagcdn.com/ir.svg
+221	ALB	Albânia	República da Albânia	2837743	28748.0	Tirana	Europa	Sudeste da Europa	Albanês	Lek Albanês	['MNE', 'GRC', 'MKD', 'UNK']	https://flagcdn.com/al.svg
+222	BRA	Brasil	República Federativa do Brasil	212559409	8515767.0	Brasília	Américas	Ámérica do Sul	Português	Real Brasileiro	['ARG', 'BOL', 'COL', 'GUF', 'GUY', 'PRY', 'PER', 'SUR', 'URY', 'VEN']	https://flagcdn.com/br.svg
+223	SRB	Sérvia	República da Sérvia	6908224	88361.0	Belgrado	Europa	Sudeste da Europa	Sérvio	Dinar Sérvio	['BIH', 'BGR', 'HRV', 'HUN', 'UNK', 'MKD', 'MNE', 'ROU']	https://flagcdn.com/rs.svg
+224	BLZ	Belize	Belize	397621	22966.0	Belmopán	Américas	América Central	Inglês, Espanhol, Crioulo de Belize	Dólar Belizenho	['GTM', 'MEX']	https://flagcdn.com/bz.svg
+225	MMR	Myanmar	República da União de Myanmar	54409794	676578.0	Naypyidaw	Ásia	Sudeste Asiático	Birmanês	Kyat Birmanês	['BGD', 'CHN', 'IND', 'LAO', 'THA']	https://flagcdn.com/mm.svg
+226	BTN	Butão	Reino do Butão	771612	38394.0	Thimbu	Ásia	Sul da Ásia	Dzongkha	Rupia Indiana, Ngultrum Butanês	['CHN', 'IND']	https://flagcdn.com/bt.svg
+227	VEN	Venezuela	República Bolivariana da Venezuela	28435943	916445.0	Caracas	Américas	Ámérica do Sul	Espanhol	Bolívar Venezuelano Soberano	['BRA', 'COL', 'GUY']	https://flagcdn.com/ve.svg
+228	LBR	Libéria	República da Libéria	5057677	111369.0	Monróvia	África	África Ocidental	Inglês	Dólar Liberiano	['GIN', 'CIV', 'SLE']	https://flagcdn.com/lr.svg
+229	JAM	Jamaica	Jamaica	2961161	10991.0	Kingston	Américas	Caribe	Inglês, Patoá Jamaicano	Dólar Jamaicano	[]	https://flagcdn.com/jm.svg
+230	POL	Polônia	República da Polônia	37950802	312679.0	Varsóvia	Europa	Europa Central	Polonês	Zloty Polonês	['BLR', 'CZE', 'DEU', 'LTU', 'RUS', 'SVK', 'UKR']	https://flagcdn.com/pl.svg
+231	CYM	Ilhas Cayman	Ilhas Cayman	65720	264.0	George Town	Américas	Caribe	Inglês	Dólar das Ilhas Cayman	[]	https://flagcdn.com/ky.svg
+232	BRN	Brunei	Nação de Brunei, morada da paz	437483	5765.0	Bandar Seri Begawan	Ásia	Sudeste Asiático	Malaio	Dólar de Singapura, Dólar de Brunei	['MYS']	https://flagcdn.com/bn.svg
+233	COM	Comores	União das Comores	869595	1862.0	Morôni	África	África Oriental	Francês, Árabe, Comoriano	Franco Comoriano	[]	https://flagcdn.com/km.svg
+234	GUM	Guam	Guam	168783	549.0	Hagåtña	Oceânia	Micronésia	Inglês, Espanhol, Chamorro	Dólar dos Estados Unidos	[]	https://flagcdn.com/gu.svg
+235	TON	Tonga	Reino de Tonga	105697	747.0	Nuku'alofa	Oceânia	Polinésia	Inglês, Tonganês	Paʻanga de Tonga	[]	https://flagcdn.com/to.svg
+236	KIR	Quiribati	República Independente e Soberana de Kiribati	119446	811.0	Tarawa do Sul	Oceânia	Micronésia	Inglês, Gilbertês	Dólar Australiano, Dólar de Kiribati	[]	https://flagcdn.com/ki.svg
+237	GHA	Gana	República de Gana	31072945	238533.0	Acra	África	África Ocidental	Inglês	Cedi Ganês	['BFA', 'CIV', 'TGO']	https://flagcdn.com/gh.svg
+238	TCD	Chade	República do Chade	16425859	1284000.0	N'Djamena	África	África Central	Francês, Árabe	Franco CFA da África Central	['CMR', 'CAF', 'LBY', 'NER', 'NGA', 'SDN']	https://flagcdn.com/td.svg
+239	ZWE	Zimbábue	República do Zimbábue	14862927	390757.0	Harare	África	África Austral	Inglês, Sotho, Tswana, Tsonga, Venda, Xhosa, Chewa, Chibarwe, Kalanga, Khoisan, Ndau, Ndebele do Norte, Shona, Tonga, Linguagem de Sinais do Zimbábue	Dólar do Zimbábue	['BWA', 'MOZ', 'ZAF', 'ZMB']	https://flagcdn.com/zw.svg
+240	MAF	Sint Maarten	Sint Maarten	38659	53.0	Marigot	Américas	Caribe	Francês	Euro	['SXM']	https://flagcdn.com/mf.svg
+241	MNG	Mongólia	Mongólia	3278292	1564110.0	Ulã Bator	Ásia	Ásia Oriental	Mongol	Tögrög da Mongólia	['CHN', 'RUS']	https://flagcdn.com/mn.svg
+242	PRT	Portugal	República Portuguesa	10305564	92090.0	Lisboa	Europa	Sul da Europa	Português	Euro	['ESP']	https://flagcdn.com/pt.svg
+243	ASM	Samoa Americana	Samoa Americana	55197	199.0	Pago Pago	Oceânia	Polinésia	Inglês, Samoano	Dólar dos Estados Unidos	[]	https://flagcdn.com/as.svg
+244	COG	República do Congo	República do Congo	5657000	342000.0	Brazzaville	África	África Central	Francês, Kikongo, Lingala	Franco CFA da África Central	['AGO', 'CMR', 'CAF', 'COD', 'GAB']	https://flagcdn.com/cg.svg
+245	BEL	Bélgica	Reino da Bélgica	11555997	30528.0	Bruxelas	Europa	Europa Ocidental	Francês, Holandês, Alemão	Euro	['FRA', 'DEU', 'LUX', 'NLD']	https://flagcdn.com/be.svg
+246	ISR	Israel	Estado de Israel	9216900	20770.0	Jerusalém	Ásia	Ásia Ocidental	Árabe, Hebraico	Novo Shekel Israelense	['EGY', 'JOR', 'LBN', 'PSE', 'SYR']	https://flagcdn.com/il.svg
+247	NZL	Nova Zelândia	Nova Zelândia	5084300	270467.0	Wellington	Oceânia	Austrália e Nova Zelândia	Inglês, Maori, Linguagem de Sinais da Nova Zelândia	Dólar da Nova Zelândia	[]	https://flagcdn.com/nz.svg
+248	NIC	Nicarágua	República da Nicarágua	6624554	130373.0	Manágua	Américas	América Central	Espanhol	Córdoba da Nicarágua	['CRI', 'HND']	https://flagcdn.com/ni.svg
+249	AIA	Anguila	Anguila	13452	91.0	O Vale	Américas	Caribe	Inglês	Dólar do Caribe Oriental	[]	https://flagcdn.com/ai.svg
