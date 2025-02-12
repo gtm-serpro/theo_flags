@@ -7,19 +7,19 @@ interface CardBackProps {
 
 const CardBack: React.FC<CardBackProps> = ({ country }) => {
     return (
-        <div className="w-full h-full bg-cover bg-center bg-no-repeat flex flex-col justify-center items-center bg-[url('/bg.svg')] grayscale">
+        <div className="w-full h-full bg-cover bg-center bg-no-repeat flex flex-col justify-center items-center bg-[url('/bg.svg')] grayscale text-left">
             <div className="bg-[rgba(255,255,255,.8)] w-full h-full flex items-center justify-center">
                 <div className="relative z-10 flex max-w-[80%]">
                     <div>
                         <div className="flex justify-between items-center gap-4">
-                            <h2 className="text-lg font-bold">{country.name}</h2>
+                            <h2 className="text-lg font-bold text-balance">{country.name}</h2>
                             <p className="text-sm">{country.code}</p>
                         </div>
-                        <h3 className="text-sm font-light mb-4 text-balance text-left">
+                        <h3 className="text-sm font-light mb-4 text-balance ">
                             {country.official_name}
                         </h3>
                         <div className="grid grid-cols-1">
-                            <table className="w-full text-left text-xs">
+                            <table className="w-full text-xs">
                                 <tbody>
                                     <tr>
                                         <td className="font-bold w-20">Região</td>
