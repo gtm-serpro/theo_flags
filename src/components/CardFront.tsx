@@ -7,7 +7,7 @@ interface CardFrontProps {
 
 const CardFront: React.FC<CardFrontProps> = ({ country }) => {
     return (
-        <div className="w-full h-full bg-[url('bg.svg')] bg-cover flex flex-col items-center justify-center p-5">
+        <div className="w-full h-full bg-[url('/bg.svg')] bg-cover flex flex-col items-center justify-center p-5">
             <img 
                 src={country.flag} 
                 alt={`Bandeira de ${country.name}`} 

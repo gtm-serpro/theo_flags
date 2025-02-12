@@ -7,7 +7,7 @@ interface CardBackProps {
 
 const CardBack: React.FC<CardBackProps> = ({ country }) => {
     return (
-        <div className="w-full h-full bg-cover bg-center bg-no-repeat flex flex-col justify-center items-center bg-[url('bg.svg')] grayscale">
+        <div className="w-full h-full bg-cover bg-center bg-no-repeat flex flex-col justify-center items-center bg-[url('/bg.svg')] grayscale">
             <div className="bg-[rgba(255,255,255,.8)] w-full h-full flex items-center justify-center">
                 <div className="relative z-10 flex max-w-[80%]">
                     <div>
