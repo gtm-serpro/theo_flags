@@ -1,11 +1,11 @@
-import AllCountries from "./pages/AllCountries";
+import Groups from "./pages/Groups";
 
 // App.tsx
 const App: React.FC = () => {
 
     return (
         <>
-            <AllCountries/>
+            <Groups/>
         </>
     );
 };

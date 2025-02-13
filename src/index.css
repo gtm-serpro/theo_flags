@@ -36,3 +36,7 @@
   transform: rotateY(180deg);
   background: white;
 }
+.forced-show {
+  transform: none !important;
+  backface-visibility: visible !important;
+}

@@ -11,7 +11,7 @@ const CardFront: React.FC<CardFrontProps> = ({ country }) => {
             <img 
                 src={country.flag} 
                 alt={`Bandeira de ${country.name}`} 
-                className="max-h-48"
+                className="max-h-48 max-w-[250px]"
             />
         </div>
     );
